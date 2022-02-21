@@ -1,0 +1,3 @@
+mongo: "mongodb://localhost"
+db: gne
+col: gnelist
