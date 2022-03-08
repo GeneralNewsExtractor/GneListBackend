@@ -13,5 +13,5 @@
 pipenv install
 pipenv shell
 export prod # 你自己创建的 yml文件的名字
-uvicorn main:app --port 8800 --host 0.0.0.0
+uvicorn main:app --port 8800 --host 0.0.0.0  # 使用8800端口
 ```
